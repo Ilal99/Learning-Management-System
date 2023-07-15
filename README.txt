@@ -1,6 +1,7 @@
-![Lms](https://github.com/Ilal99/Learning-Management-System/assets/77918015/e5bfdb62-7d03-49ee-908a-ccca39c466e4)
-![LMS-login](https://github.com/Ilal99/Learning-Management-System/assets/77918015/bf5e5fa1-bcb6-4205-8d6c-ad5c01a11086)
-![LMS-dashboard](https://github.com/Ilal99/Learning-Management-System/assets/77918015/2b999ae5-8de3-4f72-9f4c-022e8f4d6e65)                                 .-..-.
+https://github.com/Ilal99/Learning-Management-System/assets/77918015/e5bfdb62-7d03-49ee-908a-ccca39c466e4
+https://github.com/Ilal99/Learning-Management-System/assets/77918015/bf5e5fa1-bcb6-4205-8d6c-ad5c01a11086
+https://github.com/Ilal99/Learning-Management-System/assets/77918015/2b999ae5-8de3-4f72-9f4c-022e8f4d6e65
+                                 .-..-.
    _____                         | || |
   /____/-.---_  .---.  .---.  .-.| || | .---.
   | |  _   _  |/  _  \/  _  \/  _  || |/  __ \
